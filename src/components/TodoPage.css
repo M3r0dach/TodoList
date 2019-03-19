@@ -1,0 +1,11 @@
+.TodoPage {
+  width: 200px;
+  height: 400px;
+  margin: auto;
+  text-align: right;
+}
+.TodoPage ul {
+  font-size: 1.2em;
+  list-style-type: none;
+  line-height: 1.5em;
+}
